@@ -1,0 +1,11 @@
+C:\Users\h.safa\Source\repos\TestingGit\TestingGit\TestingGit\bin\Debug\netcoreapp2.0\TestingGit.deps.json
+C:\Users\h.safa\Source\repos\TestingGit\TestingGit\TestingGit\bin\Debug\netcoreapp2.0\TestingGit.runtimeconfig.json
+C:\Users\h.safa\Source\repos\TestingGit\TestingGit\TestingGit\bin\Debug\netcoreapp2.0\TestingGit.runtimeconfig.dev.json
+C:\Users\h.safa\Source\repos\TestingGit\TestingGit\TestingGit\bin\Debug\netcoreapp2.0\TestingGit.dll
+C:\Users\h.safa\Source\repos\TestingGit\TestingGit\TestingGit\bin\Debug\netcoreapp2.0\TestingGit.pdb
+C:\Users\h.safa\Source\repos\TestingGit\TestingGit\TestingGit\obj\Debug\netcoreapp2.0\TestingGit.csprojAssemblyReference.cache
+C:\Users\h.safa\Source\repos\TestingGit\TestingGit\TestingGit\obj\Debug\netcoreapp2.0\TestingGit.csproj.CoreCompileInputs.cache
+C:\Users\h.safa\Source\repos\TestingGit\TestingGit\TestingGit\obj\Debug\netcoreapp2.0\TestingGit.AssemblyInfoInputs.cache
+C:\Users\h.safa\Source\repos\TestingGit\TestingGit\TestingGit\obj\Debug\netcoreapp2.0\TestingGit.AssemblyInfo.cs
+C:\Users\h.safa\Source\repos\TestingGit\TestingGit\TestingGit\obj\Debug\netcoreapp2.0\TestingGit.dll
+C:\Users\h.safa\Source\repos\TestingGit\TestingGit\TestingGit\obj\Debug\netcoreapp2.0\TestingGit.pdb
